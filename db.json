@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gustavo Chura"
+    },
+    {
+      "id": 5,
+      "name": "Mariabelen"
+    },
+    {
+      "id": 8,
+      "name": "Rous"
+    }
+  ]
+}
